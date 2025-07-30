@@ -1,6 +1,6 @@
 <h1>Espacio Team / Espacio Network Webpage Update</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [Figma Prototype or Demo Video](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 This project involved a full redesign of the Espacio Team / Espacio Network website as part of a volunteer collaboration. The existing site was outdated and lacked modern UX/UI standards. The goal was to improve visual identity, user experience, and overall site structure using WordPress as CMS and Figma for mockup design.
