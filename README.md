@@ -3,18 +3,20 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project involved a full redesign of the Espacio Team / Espacio Network website as part of a volunteer collaboration. The existing site was outdated and lacked modern UX/UI standards. The goal was to improve visual identity, user experience, and overall site structure using WordPress as CMS and Figma for mockup design.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>WordPress</b> 
+- <b>v0.dev</b>
+- <b>Figma</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>CMS: WordPress 6.x</b>
+- <b>Builder: Elementor / Gutenberg</b>
 
 <h2>Program walk-through:</h2>
 
